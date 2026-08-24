@@ -93,7 +93,7 @@ Substituição do motor de respostas fixas (`if/else` por palavras-chave) por ch
 
 ## Arquitetura de Integração
 
-O diagrama completo está em [`docs/architecture-diagram.html`](docs/architecture-diagram.html).
+[Ver diagrama interativo](https://fekimodesto.github.io/PET-FAMILY-IA/docs/architecture-diagram.html)
 
 **Fluxo resumido:**
 
