@@ -127,10 +127,10 @@ PET-FAMILY-IA/
 
 | Nome | RM | Turma |
 |---|---|---|
-| Felipe Kirschner Modesto | RM 561810 | 2TDS |
-| João Victor Luiz de Oliveira Resende | RM 565139 | 2TDS |
-| Pedro Henrique Vaz Ferreira | RM 566551 | 2TDS |
-| Vitor Dias dos Santos | RM 565422 | 2TDS |
+| Felipe Kirschner Modesto | RM 561810 | 2TDSPG |
+| João Victor Luiz de Oliveira Resende | RM 565139 | 2TDSPG |
+| Pedro Henrique Vaz Ferreira | RM 566551 | 2TDSPG |
+| Vitor Dias dos Santos | RM 565422 | 2TDSPG |
 
 ---
 
