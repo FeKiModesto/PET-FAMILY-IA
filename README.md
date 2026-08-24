@@ -23,7 +23,7 @@ Tutores de pets frequentemente não sabem interpretar sinais do cotidiano do ani
 
 ---
 
-## 🤖 Solução Proposta: IA Generativa com Contexto Dinâmico
+## Solução Proposta: IA Generativa com Contexto Dinâmico
 
 Substituição do motor de respostas fixas (`if/else` por palavras-chave) por chamadas reais à **Gemini API (Google AI)**, com um **system prompt dinâmico** que injeta:
 
